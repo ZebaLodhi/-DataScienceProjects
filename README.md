@@ -1,2 +1,2 @@
 # -DataScienceProjects
-This is my Data science portfolio
+This is my Data Science portfolio
